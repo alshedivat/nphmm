@@ -1,0 +1,3 @@
+[submodule "lib/chebfun"]
+	path = lib/chebfun
+	url = https://github.com/alshedivat/chebfun.git
