@@ -8,7 +8,7 @@ KDE estimators are based on [if-estimators](https://github.com/kirthevasank/if-e
 
 To get the code, clone the repository as follows:
 ```bash
-$ git clone --recursive git@github.com:alshedivat/nphmm.git
+$ git clone --recursive https://github.com/alshedivat/nphmm.git
 ```
 **Note:** You need to clone *recursively* since `nphmm` depends on `chebfun` as a submodule.
 
